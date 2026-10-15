@@ -1,0 +1,11 @@
+pandas
+pyarrow
+requests
+tqdm
+matplotlib
+seaborn
+plotly
+geopandas
+ydata-profiling
+scikit-learn
+jupyterlab
