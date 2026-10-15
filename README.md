@@ -1,18 +1,19 @@
 # Electric Vehicle Adoption in Poland
-Exploratory data analysis of electric vehicle adoption in Poland using CEPiK vehicle registrations, EIPA charging infrastructure and GUS socio-economic data. County-level trends, drivers, maps and ML-ready feature engineering.
+
+Exploratory data analysis of electric vehicle adoption in Poland, compared with other EU countries and broken down by region. The project combines Eurostat statistics on passenger cars by type of motor energy with regional data from Statistics Poland (GUS) and charging infrastructure data (EIPA).
 
 ## Research questions
 
-1. How has the share of BEVs and PHEVs in new registrations changed between 2019 and 2025?
-2. Which counties are electrifying fastest, and is this related to income, urbanisation and charger availability?
-3. Which brands and models dominate, and do they differ between large cities and rural areas?
-4. Are government subsidy programmes (Mój Elektryk, NaszEauto) visible in registration trends?
+1. How has the share of battery electric (BEV) and plug-in hybrid (PHEV) cars in new registrations and in the total car fleet changed in Poland since 2013?
+2. How does Poland compare with other EU countries, and is EV adoption related to GDP per capita?
+3. Which Polish regions have the highest share of alternative fuel cars, and is this related to income, urbanisation and charger availability?
+4. Are changes in government subsidy programmes (Mój Elektryk, NaszEauto) reflected in yearly registration trends?
 
 ## Data sources
 
-- [CEPiK](https://api.cepik.gov.pl/doc) – Central Register of Vehicles and Drivers (vehicle registrations)
+- [Eurostat](https://ec.europa.eu/eurostat/databrowser/) – new passenger cars (`road_eqr_carpda`) and passenger car fleet (`road_eqs_carpda`) by type of motor energy, GDP per capita (`nama_10_pc`)
+- [GUS BDL](https://bdl.stat.gov.pl/) – Local Data Bank of Statistics Poland (registered vehicles, population, wages by region)
 - [EIPA](https://eipa.udt.gov.pl/) – Register of Alternative Fuel Infrastructure (charging stations)
-- [GUS BDL](https://bdl.stat.gov.pl/) – Local Data Bank of Statistics Poland
 
 ## Status
 
