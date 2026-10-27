@@ -6,7 +6,7 @@
 - [x] Akceptacja tematu przez prowadzącego
 - [x] Usunięcie plików CEPiK (src/explore_cepik.py, src/cepik_session.py)
 - [x] Usunięcie `data/raw/` z .gitignore (pliki są małe, więc trzymamy je w repozytorium)
-- [ ] Utworzenie `docs/data_sources.md`
+- [x] Utworzenie `docs/data_sources.md`
 
 ## Etap 1. Pozyskanie danych
 - [ ] Eurostat `road_eqr_carpda` → data/raw/eurostat/nowe_rejestracje.csv
