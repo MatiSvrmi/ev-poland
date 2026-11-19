@@ -1,0 +1,3 @@
+- Plik: `data/raw/eurostat/road_eqr_carpda_linear.csv.gz`
+- Format: SDMX-CSV (linear), skompresowany gzip, pełny zbiór
+- Data pobrania: 19-10-2026

@@ -9,7 +9,7 @@
 - [x] Utworzenie `docs/data_sources.md`
 
 ## Etap 1. Pozyskanie danych
-- [ ] Eurostat `road_eqr_carpda` → data/raw/eurostat/nowe_rejestracje.csv
+- [x] Eurostat `road_eqr_carpda` → data/raw/eurostat/nowe_rejestracje.csv
 - [ ] Eurostat `road_eqs_carpda` → data/raw/eurostat/park_samochodow.csv
 - [ ] Eurostat `nama_10_pc` → data/raw/eurostat/pkb_per_capita.csv
 - [ ] GUS BDL: rozpoznanie, czy są samochody według rodzaju paliwa (lata, poziom: województwa/powiaty)
