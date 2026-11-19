@@ -4,7 +4,7 @@ Eksploracyjna analiza danych dotycząca popularyzacji samochodów elektrycznych 
 
 ## Pytania badawcze
 
-1. Jak od 2013 roku zmieniał się w Polsce udział samochodów elektrycznych (BEV) i hybryd plug-in (PHEV) w nowych rejestracjach oraz w całym parku samochodowym?
+1. Jak od 2016 roku zmieniał się w Polsce udział samochodów elektrycznych (BEV) i hybryd plug-in (PHEV) w nowych rejestracjach oraz w całym parku samochodowym?
 2. Jak Polska wypada na tle innych krajów UE i czy poziom elektromobilności jest powiązany z PKB per capita?
 3. Które województwa mają najwyższy udział samochodów z napędem alternatywnym i czy ma to związek z dochodami, urbanizacją oraz dostępnością ładowarek?
 4. Czy zmiany w rządowych programach dopłat (Mój Elektryk, NaszEauto) są widoczne w rocznych trendach rejestracji?
